@@ -16,7 +16,9 @@ There will be a long and short list to help make looking up quicker.
 | ---------------------------------- | --------- |
 | Vanilla Minecraft Block ID range   | 0 - 255   |
 | Equivalent Exchange Block ID range | 256 - 260 |
+| Tropicraft Block ID range          | 261 - 280 |
 | Vanilla Minecraft Item ID range    | 256 - 453 |
 | Equivalent Exchange Item ID range  | 454 - 520 |
+| Tropicraft Item ID range           | 521 - 544 |
 
 ### Long (Exact)
