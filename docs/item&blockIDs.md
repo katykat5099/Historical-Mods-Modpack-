@@ -16,6 +16,7 @@ There will be a long and short list to help make looking up quicker.
 | ---------------------------------- | --------- |
 | Vanilla Minecraft ID range         | 0 - 453   |
 | Doggy Talents ID range             | 454 - 468 |
+| Millénaire ID range                | 469 - 513 |
 | Tropicraft Block ID range          | 261 - 280 |
 | Tropicraft Item ID range           | 521 - 544 |
 | Equivalent Exchange Block ID range | 256 - 260 |
