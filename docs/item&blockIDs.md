@@ -14,11 +14,15 @@ There will be a long and short list to help make looking up quicker.
 
 | Mod                                | IDs       |
 | ---------------------------------- | --------- |
-| Vanilla Minecraft Block ID range   | 0 - 255   |
-| Equivalent Exchange Block ID range | 256 - 260 |
+| Vanilla Minecraft ID range         | 0 - 453   |
+| Doggy Talents ID range             | 454 - 468 |
 | Tropicraft Block ID range          | 261 - 280 |
-| Vanilla Minecraft Item ID range    | 256 - 453 |
-| Equivalent Exchange Item ID range  | 454 - 520 |
 | Tropicraft Item ID range           | 521 - 544 |
+| Equivalent Exchange Block ID range | 256 - 260 |
+| Equivalent Exchange Item ID range  | 454 - 520 |
+
+#### Notes:
+
+Doggy Talents for 1.4.7's configs do not actually work, so the ability to set the IDs to the new IDs is non-functional.
 
 ### Long (Exact)
